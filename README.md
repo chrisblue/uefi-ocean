@@ -1,4 +1,4 @@
-Attempt to create a minimal EDK2 for Xiaomi MI8 SE - sirius.
+Attempt to create a minimal EDK2 for Smartisan Nut Pro 2S - ocean.
 
 Based on zhuowei's port for Pixel3XL (https://github.com/Pixel3Dev/edk2-pixel3/).
 
